@@ -20,5 +20,5 @@ files {
 	'ui/fonts/fonts/Roboto-Regular.ttf',
 	'ui/script.js',
 	'ui/style.css',
-	'ui/debounce.min.js
+	'ui/debounce.min.js'
 }
